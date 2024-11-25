@@ -19,3 +19,5 @@ function RE33qq(name) {
 function KKIO(name) {
     console.log("Добрый вечер, " + name + "!");
 }fddddfffasaddd
+
+//HEllllouuu
