@@ -7,4 +7,4 @@ greet("Мария");
 
 
 const arrrrr = [2,4,6];
-console.log(arrrrr[1]);ffw
+console.log(arrrrr[1]);ffwdaaaasdd
