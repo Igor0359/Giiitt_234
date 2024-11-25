@@ -21,3 +21,9 @@ console.log(arrrrr[1]);ffwdaaaasdd
 
 const arrrrr888888888 = [72,4,6];
 console.log(arrrrr[1]);ffwdaaaasdd
+
+const arrrrr88880000 = [72,4,6];
+console.log(arrrrr[1]);ffwdaaaasdd
+
+const arrrrr88444444 = [72,4,6];
+console.log(arrrrr[1]);ffwdaaaasdd
